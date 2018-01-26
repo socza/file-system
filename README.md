@@ -1,1 +1,1 @@
-# Run command "npm start"
+# Run command "npm start" to start program.
