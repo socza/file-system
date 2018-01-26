@@ -18,8 +18,8 @@ fs.readdir('./', function(err, data) {
 
 		if (err) throw err;
 		console.log('Dane po zapisie'.green)
-        console.log(data);
+		console.log(data);
 
 	});
-    
+
 });
